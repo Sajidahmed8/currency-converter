@@ -3,7 +3,7 @@ This is a Currency Converter Web Application created with the help of HTML, CSS 
 Flags are updated dynamically using [Flags API](https://flagsapi.com/).
 
 ## Preview Demo
-[Live Demo](https://https://cunconvert.netlify.app/)
+[Live Demo](https://cunconvert.netlify.app/)
 
 ## Preview Screenshorts
 ![Currency Converter Preview](img1.png)
