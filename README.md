@@ -15,7 +15,7 @@ Flags are updated dynamically using [Flags API](https://flagsapi.com/).
 
 ## Use This Project on Your Computer/Laptop or Other Devices
 
-1- Clone this repository :-
+1. Clone this repository :-
 
    ```bash
    git clone <respository-url>
