@@ -2,8 +2,10 @@
 This is a Currency Converter Web Application created with the help of HTML, CSS and JavaScript. It enables user to convert different currencies based on real-time exchange value or rates. 
 Flags are updated dynamically using [Flags API](https://flagsapi.com/).
 
-## Preview
+## Preview Demo
+[Live Demo](https://https://cunconvert.netlify.app/)
 
+## Preview Screenshorts
 ![Currency Converter Preview](img1.png)
 ![Currency Converter Preview](img2.png)
 ![Currency Converter Preview](img3.png)
