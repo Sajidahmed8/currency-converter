@@ -17,7 +17,8 @@ Flags are updated dynamically using [Flags API](https://flagsapi.com/).
 
 1- Clone this repository :-
 
-   ```bash git clone <respository-url>
+   ```bash
+   git clone <respository-url>
 
 2- Open index.html in your web browser.
 3- Select the currency from the dropdown menu.
